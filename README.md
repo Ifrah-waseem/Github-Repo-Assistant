@@ -7,7 +7,7 @@ Chat with any public GitHub repository. Paste a URL, the app clones and indexes 
 <img width="312" height="450" alt="p2" src="https://github.com/user-attachments/assets/1d89e87a-11c8-4f29-8f91-45b09a75ef2a" />
 <img width="659" height="387" alt="p3" src="https://github.com/user-attachments/assets/8e215004-3200-4e30-982e-c5fece626aaa" />
 
-
+##APP LINK:https://app-repo-assistant-acqq47hpfzmya3s8y2uy4p.streamlit.app/
 ## Features
 
 - Index any public GitHub repository from its URL (shallow clone, default branch)
